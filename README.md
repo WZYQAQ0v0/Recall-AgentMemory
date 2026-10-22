@@ -34,7 +34,7 @@ cd Recall-AgentMemory
 
 也可以[下载源码 ZIP](https://github.com/WZYQAQ0v0/Recall-AgentMemory/archive/refs/heads/main.zip)，解压后进入包含 `AGENTS.md`、`recallctl.py` 和安装脚本的目录。
 
-### 方式一：通过 Agent 安装
+### 方式一：通过 Agent 安装 （强烈推荐）
 
 将项目目录交给能够读取本机文件并执行命令的 Agent，使用以下指令：
 
