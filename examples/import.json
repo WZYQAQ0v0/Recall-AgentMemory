@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "provider": "trae",
+      "native_id": "replace-with-original-session-id",
+      "title": "导入格式示例：数据库超时排查",
+      "project": "example-project",
+      "messages": [
+        {"role": "user", "content": "数据库请求超时，请检查连接池等待。", "timestamp": "2026-01-01T10:00:00+08:00"},
+        {"role": "assistant", "content": "排查连接池活跃连接、等待时长和慢查询，保留原始错误和验证结果。", "timestamp": "2026-01-01T10:01:00+08:00"}
+      ]
+    }
+  ]
+}
