@@ -4,7 +4,7 @@ Recall 在每位使用者自己的电脑上运行，为会话生成标题、关�
 
 ## 把文件夹交给 Agent
 
-解压整个 recall-agent-package 文件夹，交给可以读取文件和执行本机命令的 Agent，并发送：
+下载并解压整个 recall-agentmemory文件夹或git clone，交给可以读取文件和执行本机命令的 Agent，并发送：
 
 > 请读取这个文件夹的 AGENTS.md，在当前用户的电脑安装并启用 Recall，包括检测到的会话来源、Trae 事件采集和登录启动。完成 doctor 自检后打开看板，保留现有配置及数据，并报告需要用户操作或尚未实际验证的功能。
 
